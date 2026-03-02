@@ -1497,6 +1497,7 @@ static const struct usb_device_id xone_dongle_id_table[] = {
 	{ USB_DEVICE(0x045e, 0x02fe) }, /* new dongle */
 	{ USB_DEVICE(0x045e, 0x02f9) }, /* built-in dongle (ASUS, Lenovo) */
 	{ USB_DEVICE(0x045e, 0x091e) }, /* built-in dongle (Surface Book 2) */
+	{ USB_DEVICE(0X3537, 0X109c) }, /* GameSir G7 Pro dongle */
 	{ },
 };
 
